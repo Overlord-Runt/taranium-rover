@@ -15,7 +15,7 @@ Anyways now its time for my suoer cool progress report\
 *insert super cool name for the project report*\
 I did some cadding today for like an hour or 2 and I made a wheel :D\
 I also made some gears and mechanical stuff for the back tires.\
-thats about it tbh.
+thats about it tbh.\
 [wheel](assets/wheel.png)\
 [gear](assets/gear1.png)
 
