@@ -67,4 +67,6 @@ Time spent today: 5 hours
 ## 18th of May
 ### 1am
 so i was looking into the esp input voltage and turn out it can handle a 12V input.\
-but that diode mess was not for nothing. I still need it for my motors.
+but that diode mess was not for nothing. I still need it for my motors.\
+
+UPDATE: im just gonna use a buck converter. I dont wanna gamble on my idea just to save $2
