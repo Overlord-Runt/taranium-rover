@@ -70,3 +70,5 @@ so i was looking into the esp input voltage and turn out it can handle a 12V inp
 but that diode mess was not for nothing. I still need it for my motors.\
 
 UPDATE: im just gonna use a buck converter. I dont wanna gamble on my idea just to save $2
+
+found a nice battery so gonna save the link here: https://www.amazon.com.au/cart/smart-wagon?newItems=af51fb0b-661d-4de9-b8e5-c46f956c932f,1&ref_=sw_refresh
