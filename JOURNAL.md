@@ -61,3 +61,8 @@ tmrw im gonna probably gonna go and start on the internals cadding. but i need t
 anyways bye
 
 Time spent today: 5 hours
+
+18th of May
+1am
+so i was looking into the esp input voltage and turn out it can handle a 12V input.
+but that diode mess was not for nothing. I still need it for my motors.
