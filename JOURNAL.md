@@ -1,6 +1,6 @@
 # Insert prject name here
 
-##15th of May
+## 15th of May
 
 highway was just announced :D
 
@@ -26,7 +26,7 @@ Until the next we meet.
 
 Time spent: about an hour
 
-##16th of May
+## 16th of May
 
 hello. I am writing this on the 17th cuz i forgot to do it yesterday.\
 anyways I dibbled a bit in the cad but mainly started up with my pcb and electronics.
@@ -47,7 +47,7 @@ oh yeah i decided to use an esp32 as the mcu so i could use esp-now as the commu
 
 Time spend: 1-2 hours(I forgot but somewhere in that range)
 
-##17th of May
+## 17th of May
 
 okay time for todays update. im gonna talk as if you have image references and then add the images in later cuz im not bothered rn tbh.\
 if you can see images here then congrats, you came after i added images.
@@ -64,7 +64,7 @@ anyways bye
 
 Time spent today: 5 hours
 
-##18th of May
-###1am
+## 18th of May
+### 1am
 so i was looking into the esp input voltage and turn out it can handle a 12V input.\
 but that diode mess was not for nothing. I still need it for my motors.
