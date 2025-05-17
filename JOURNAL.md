@@ -22,6 +22,8 @@ thats about it tbh.\
 Anyways time for a farewell my good friends, \
 Until the next we meet.
 
+Time spent: about an hour
+
 16th of May
 
 hello. I am writing this on the 17th cuz i forgot to do it yesterday.\
@@ -39,7 +41,9 @@ after that i started work on the schematic and pcb and ended off the day looking
 ![schm1](assets/schm1.png)\
 ![pcb1](assets/pcb1.png)
 
-oh yeah i decided to use an esp32 as the mcu so i could use esp-now as the communication between it and the controller.\
+oh yeah i decided to use an esp32 as the mcu so i could use esp-now as the communication between it and the controller.
+
+Time spend: 1-2 hours(I forgot but somewhere in that range)
 
 17th of May
 
@@ -55,3 +59,5 @@ the thought process is that if in the future i wanted to change up the functiona
 
 tmrw im gonna probably gonna go and start on the internals cadding. but i need to do meth and physics hw first :(\
 anyways bye
+
+Time spent today: 5 hours
