@@ -48,10 +48,10 @@ if you can see images here then congrats, you came after i added images.
 
 Okay so with my schematic i added a whole bunch of stuff like the stepper motor, more h-bridges, more servos, battery connectors, etc.\
 also that weird stuff going on with my battery connectors is me trying to make both a 6V and 12V power supply come from 2 6V batteries.\
-so the diodes limit the flow so it doesnt blow up on itself and the batteries are aranged so they are both in series and in parallel at the same time.\
+so the diodes limit the flow so it doesnt blow up on itself and the batteries are aranged so they are both in series and in parallel at the same time.
 
 I also added more h-bridges and servo spots than im actually gonna use\
-the thought process is that if in the future i wanted to change up the functionality, then i could use those extra ones if needed. plus I had space anyways.\
+the thought process is that if in the future i wanted to change up the functionality, then i could use those extra ones if needed. plus I had space anyways.
 
 tmrw im gonna probably gonna go and start on the internals cadding. but i need to do meth and physics hw first :(\
 anyways bye
