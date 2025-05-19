@@ -1,5 +1,5 @@
 # Insert prject name here(it is not gonna be as lame as rc sentry)
-
+and yes this is just my journal but its in the readme so its different
 ## 15th of May
 
 highway was just announced :D
