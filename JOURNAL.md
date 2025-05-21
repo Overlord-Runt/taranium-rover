@@ -1,4 +1,4 @@
-# Insert prject name here
+# Insert project name here
 
 ## 15th of May
 
@@ -72,3 +72,19 @@ but that diode mess was not for nothing. I still need it for my motors.\
 UPDATE: im just gonna use a buck converter. I dont wanna gamble on my idea just to save $2
 
 found a nice battery so gonna save the link here: https://www.amazon.com.au/cart/smart-wagon?newItems=af51fb0b-661d-4de9-b8e5-c46f956c932f,1&ref_=sw_refresh
+
+## 21st of May
+I'm finally back
+
+anyways I am in pain\
+onshape sucks\
+and linux literally doesnt have any better options.\
+so until i get a new laptop, its gonna be incredibly slow production.
+
+anyways what i did today:\
+lots of cadding and stuff.\
+made some ideas for suspensions\
+got a lesson from my dad on how suspensions are stupidly harder to use\
+settled on just hard connections\
+now designing that stuff\
+learnt how horrid onshape is for doing anything big o with lots of parts.
