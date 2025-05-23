@@ -56,8 +56,13 @@ Okay so with my schematic i added a whole bunch of stuff like the stepper motor,
 also that weird stuff going on with my battery connectors is me trying to make both a 6V and 12V power supply come from 2 6V batteries.\
 so the diodes limit the flow so it doesnt blow up on itself and the batteries are aranged so they are both in series and in parallel at the same time.
 
+![schem](assets/schm2.png)
+
 I also added more h-bridges and servo spots than im actually gonna use\
 the thought process is that if in the future i wanted to change up the functionality, then i could use those extra ones if needed. plus I had space anyways.
+
+![pcb](assets/pcb2.png)\
+![3d](assets/3dpcb.png)
 
 tmrw im gonna probably gonna go and start on the internals cadding. but i need to do meth and physics hw first :(\
 anyways bye
@@ -73,6 +78,8 @@ UPDATE: im just gonna use a buck converter. I dont wanna gamble on my idea just 
 
 found a nice battery so gonna save the link here: https://www.amazon.com.au/cart/smart-wagon?newItems=af51fb0b-661d-4de9-b8e5-c46f956c932f,1&ref_=sw_refresh
 
+Hours spent: 1
+
 ## 21st of May
 I'm finally back
 
@@ -87,4 +94,34 @@ made some ideas for suspensions\
 got a lesson from my dad on how suspensions are stupidly harder to use\
 settled on just hard connections\
 now designing that stuff\
-learnt how horrid onshape is for doing anything big o with lots of parts.
+learnt how horrid onshape is for doing anything big of with lots of parts.
+
+hours spent: 3
+
+## 23rd of May
+
+okay so i got sick yesterday and wasnt able to make an entry so im gonna summarise both days work today. 
+
+So first some yap. In approximately 11 hours and 35 minutes, the kickoff call will start. thats fun and exciting.
+
+Okay so onwards to what I did.\
+Yesterday I worked a lot on my back half of the car and did quite a lot of work and got most of the interals done for the back half of the car. And today I finished up those internals and got them at an acceptable standard for me.
+
+![alt](assets/back1.png)\
+![alt](assets/back2.png)
+
+I also got started on the gun mechanism and roughly mapped out 2 of the axis for my gun to move around with.
+
+![alt](assets/arm1.png)\
+![alt](assets/arm2.png)
+
+# THE PROBLEM
+
+So due to australian gun laws, it is illegal to possess, make, or hold schematics of any weapon. Toy or not.\
+Due to this, my entire plan of making a gun on top of an rc car is shut down.\
+So what can i do to solve this?\
+Its an rc car with a 4 axis robotic arm on top.\
+Instead of a ranged weapon, its a close combat fighter. /j
+
+anyways thats my idea now so I need to go back and make changes to my pcb and bom. I need to add another stepper motor to my pcb(this is gonna take a big battery)\
+My plan for the arm is to have 3 bending points and one spinning point. the bottom bending point uses a stepper motor for extra strength and the top 2 and hand will use servos the hand might use a 5v motor though. (havent decided yet)
