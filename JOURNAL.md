@@ -125,3 +125,14 @@ Instead of a ranged weapon, its a close combat fighter. /j
 
 anyways thats my idea now so I need to go back and make changes to my pcb and bom. I need to add another stepper motor to my pcb(this is gonna take a big battery)\
 My plan for the arm is to have 3 bending points and one spinning point. the bottom bending point uses a stepper motor for extra strength and the top 2 and hand will use servos the hand might use a 5v motor though. (havent decided yet)
+
+hours spent: 8
+
+## 24th of May
+so today was the call for highway and it was peak.
+
+today i started part research and a pcb overhaul to accomodate for the extra motors needed in the arm. now the problems with this: I found out that the transistors i am using can only handle up to 100 mA when i need about 1A to drive the motor. so thats a big problem. Next problem: Im using 12V motors and most mosfets i looked at cant properly fuction with 12V and a 3.3V trigger and the ones that do are all smd parts which are impossible for me to work with.
+
+so my plan rn is to just leave this until i find a solution and start working on something else.
+
+time spent: 3 hours
