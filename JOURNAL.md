@@ -136,3 +136,35 @@ today i started part research and a pcb overhaul to accomodate for the extra mot
 so my plan rn is to just leave this until i find a solution and start working on something else.
 
 time spent: 3 hours
+
+## 4th of June
+
+Im starting to work on this again and its pretty cool. I started on the arm since I am on a brain block on how to make the body.\
+I made the hand part of the arm today.
+
+For the hand, I used a worm gear(i think thats the name) with 4 prongs.
+
+It started with a spur gear with a massive centre bore, Then I made 2 cuts from the centre out and got left with ~200-230 degrees of gear.\
+I made a sketch for the prong to attach to the end of the gear and extruded it out both sides to make a prong. I then put a zigzag on the end of the prong and added a chamfer.
+
+![boo](assets/bonk.png)
+
+I then spent an hour trying to learn how to make screws and made a centre screw for the hand.\
+I then copied it 3 times around the screw to make it look like the picture above.
+
+Next was the frame. This was the hardish part.\
+I started by editing the prongs to add a centre hole for a bearing and put a rod through it\
+Then I made corner frame parts by alligning the 4 prongs\
+I also made some chamfers to make it look nice
+
+Next was the motor holder, I extruded 4 corners and platformed around a rectangle that I made as a motor placeholder.\
+
+Next i put a square to hold the 4 parts together with screws.
+
+And that was my day.
+
+## 5th of June
+
+Today was highway call. today was cool because I finaly figured out a good way to make a turning system that I can implement into this.
+
+I will add some more info later on it once I start thinking about it a bit more
