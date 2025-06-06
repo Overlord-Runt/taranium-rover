@@ -172,3 +172,16 @@ And that was my day.
 Today was highway call. today was cool because I finaly figured out a good way to make a turning system that I can implement into this.
 
 I will add some more info later on it once I start thinking about it a bit more
+
+Yeah i have no clue on how to do this.\
+I wanna die\
+why is this so difficult to figure out\
+ooh wait\
+new idea\
+lemme make some sketches
+
+## 6th of June
+
+New idea maybe works\
+not known for sure\
+but there is a chance
