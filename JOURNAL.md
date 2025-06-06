@@ -1,5 +1,9 @@
-# Insert project name here
-
+---
+title: "RC Car with an Arm"
+author: "Taran The Idiot"
+description: "An RC car with a 4 axis arm"
+created_at: "2024-03-20"
+---
 ## 15th of May
 
 highway was just announced :D
