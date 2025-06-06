@@ -2,7 +2,7 @@
 title: "RC Car with an Arm"
 author: "Taran The Idiot"
 description: "An RC car with a 4 axis arm"
-created_at: "2025-03-20"
+created_at: "2025-05-15"
 ---
 ## 15th of May
 
