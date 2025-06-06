@@ -167,6 +167,8 @@ Next i put a square to hold the 4 parts together with screws.
 
 And that was my day.
 
+Time Spent: 2 hours
+
 ## 5th of June
 
 Today was highway call. today was cool because I finaly figured out a good way to make a turning system that I can implement into this.
@@ -179,6 +181,8 @@ why is this so difficult to figure out\
 ooh wait\
 new idea\
 lemme make some sketches
+
+Time spent: 30 mins
 
 ## 6th of June
 
