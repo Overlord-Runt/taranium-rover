@@ -184,6 +184,10 @@ lemme make some sketches
 
 Time spent: 30 mins
 
+## 18th of June
+
+okay I am gonna do a full redesign. Now it will use 4 motors(1 per wheel) so then turning will be a lot easier to figure out.
+
 ## 6th of June
 
 New idea maybe works\
