@@ -193,3 +193,7 @@ okay I am gonna do a full redesign. Now it will use 4 motors(1 per wheel) so the
 New idea maybe works\
 not known for sure\
 but there is a chance
+
+## 1st July
+
+Damn i havent worked on this in a while.
