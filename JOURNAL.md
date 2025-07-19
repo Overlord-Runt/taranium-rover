@@ -151,7 +151,7 @@ For the hand, I used a worm gear(i think thats the name) with 4 prongs.
 It started with a spur gear with a massive centre bore, Then I made 2 cuts from the centre out and got left with ~200-230 degrees of gear.\
 I made a sketch for the prong to attach to the end of the gear and extruded it out both sides to make a prong. I then put a zigzag on the end of the prong and added a chamfer.
 
-![boo](assets/bonk.png)
+![boo](assets/clawf.png)
 
 I then spent an hour trying to learn how to make screws and made a centre screw for the hand.\
 I then copied it 3 times around the screw to make it look like the picture above.
