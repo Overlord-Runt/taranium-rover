@@ -197,3 +197,116 @@ but there is a chance
 ## 1st July
 
 Damn i havent worked on this in a while.
+
+Okay so Im just going to full send on the 4 motor idea since i cant figure out a way to reliably steer. I also redownloaded macos so i got shapr3d back and am gonna port everything over to there.
+
+time spent: like 10 mins porting
+
+## 2nd July
+
+Time to start doing work :D
+
+![hi](assets/j2.png)
+
+I fixed the motor mounts to actually rotate around a centre axle unlike before. and now it also has the screw holes and heatset holes fixed from 3mm and 5mm to 3.3 and 4.7 cuz i had it wrong  before.
+
+![b](assets/j61.png)
+
+I also started on the chasis since internals needed it in order to progress.
+
+i start with a top shell and position it roughly how high I want the chasis to be from the Internals. I also noticed it was a pretty big surface so im gonna use that area and mount the pcb there because yes.
+
+Total Time: 3 hours
+
+## 6th July
+
+![djh](assets/j62.png)
+
+hi
+
+I imported the wheels into the model and did some touch ups to the internals. little clean up stuff.
+
+i also started chasis stuffs but more of it.
+
+![d](assets/j76.png)
+
+I started making the wheel cover thingy for the car and connected them together to make a frame was pretty simple stuff but then i relise. i need wire management
+
+![sjhfg](assets/j77.png)
+
+So i made these little hook circle thingies. they dont hold wires by themselves. instead they were made to hold zip ties and you zip tie the wires to them.
+
+![fsjkhd](assets/j78.png)
+
+Better image^\
+making these i just made one of them in a differnt place, moved it where i wanted it and then started copy pasting them where i wanted. pretty relaxing after the pain of doing chsis stuff.(it was easy but painful).
+
+![gfs](assets/j79.png)
+
+The holes go all the way to the mainboard to wherenver they connect. pretty nice system if you ask me.
+
+Time spent: 4 hr
+
+## 7th July
+
+hihi
+
+![hfgh](assets/j71.png)
+
+So i kinda messed up o the chasis design on lots of different areas so gonna talk about it here.\
+So this is what the main chasis will look like. or at least this is the start of it.\
+i did this design because I was just trying to make something car shaped and landed on this.\
+anyways time to explain each part in depth.
+
+![gfdg](assets/j72.png)
+
+this is the tires cover/mudflap/idk im not a car person
+
+either way its cool. I chose an oval because this thing needs to turn and the axis of rotation is fairly far away from the wheel itself which would mean thw it has lots of horizontal movement, therfore needing the extra space on the front and back
+
+![dsk](assets/j73.png)
+
+This side actually looks good though\
+you have to admit it\
+I had lots of fun and pain with the loft and split body tools to make this with heaps of different sketches and shapes. to make this you are basically just making a bunch of planes and sketches and lofting them together. then use split body to remove excess materials
+
+you can probably see way too many screw holes which will be a pain to build.
+
+Also im ditching the arm now too. this thing is already really big and heavy. an arm would make that worse plus power comsumption would be through the roof. and i cant fit a bigger battery.
+
+Time Spent: 5 hours
+
+## 8th  july
+
+nearly done
+
+The top piece of the chasis is too big for my printer so i needed to chop it
+
+![fdgg](assets/j82.png)
+
+I made vertical cut here to split it into 2 pieces and added holes and a connector piece to seal it together.
+
+![dfs](asstes/j81.png)
+
+this piece just has 4 screws go into it to connect those 2 pieces.
+
+![fsdfsjf](assets/j84.png)
+
+I added the same bracket thing on the sides and  it looked pretty good. now it fots on my printer and works well(maybe)
+
+Time Spent: 4 hours
+
+## 9th july
+
+Time to work on battery mount. Final straw( I think)
+
+![gsf](assets/j85.png)
+
+so this is how big the battery is. takes up a decent chunk of size and now i gotta make a braket for it.
+
+![dfs](assets/j86.png)
+
+before we start, funny number
+
+
+
