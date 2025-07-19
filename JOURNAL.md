@@ -286,7 +286,7 @@ The top piece of the chasis is too big for my printer so i needed to chop it
 
 I made vertical cut here to split it into 2 pieces and added holes and a connector piece to seal it together.
 
-![dfs](asstes/j81.png)
+![dfs](assets/j81.png)
 
 this piece just has 4 screws go into it to connect those 2 pieces.
 
@@ -307,6 +307,51 @@ so this is how big the battery is. takes up a decent chunk of size and now i got
 ![dfs](assets/j86.png)
 
 before we start, funny number
+
+I changed the colurs of the cad to some I think that I would like so the following may be a bit hard to see.
+
+![gddfgkdf](assets/brack.png)
+
+Here is what the completed bracket looks like.
+
+I basically just made a box around the battery and made a J that goes over the battery and uses screws to hold itself in. You can also see the connector piece from earlier. I multitasked it to also act as a support beam for the front and to connect the chasis to the frame. pretty cool.
+
+Time Spent: 6 hours
+
+## 19th of July
+
+Okay I need to speedrun this project if I want it out on time to get my stipends.
+
+so controller time. I speedrun this so fast in one day. 
+
+First what i wanted: 2 encoders, 2 triggers, all battery powered.
+
+Here are images of what I made:
+
+![sfd](assets/c4.png)
+
+![dsfs](assets.c3.png)
+
+This is the controller. it uses 2 horizontal encoders. (one for acceleration, other for turning.
+
+trigger 1 changes driection, trigger 2 just exists for now until i decide what to do with it.
+
+for the joysticks on the encoders, i used a bunch of drafts to get a general shape and then filleted a bunch to get the curves. the this is that there was no feasable wayt ot get it into the case to begin with so i chopped off the top and gave it a rod so it can be assembled.
+
+![sfd](assets/c1.png)
+
+the pcb schematic looks like so:
+
+![sfsdf](assets/scd.png)
+
+the extra battery stuff is for a boost converter since the esp needs 5V and not 3.7
+
+
+
+
+
+
+
 
 
 
