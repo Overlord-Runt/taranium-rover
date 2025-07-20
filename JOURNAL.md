@@ -207,6 +207,8 @@ So today I redesigned the whole PCB(again) so now it can support all the motors 
 
 ![gfd](assets/f.png)
 
+Oh and I made that symbol for the TB6612 btw. i wanted to make the footprint but i couldnt find any proper dimentions for it so i just pulled one off the internet
+
 its crazy what this pcb used to be. but sadly i dont think anything else is possible.
 
 time spent: 
