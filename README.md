@@ -2,7 +2,7 @@
 Made By Overlord Runt // Taran The Idiot
 
 ## Taranium Rover
-This is an RC car I made for Hack Club's [Highway}(https://highway.hackclub.com). It has a 4WD system and can turn with all 4 wheels. It uses ESP32 and ESPNow to communicate between the car and the controller
+This is an RC car I made for Hack Club's [Highway](https://highway.hackclub.com). It has a 4WD system and can turn with all 4 wheels. It uses ESP32 and ESPNow to communicate between the car and the controller
 
 ## The Car
 
