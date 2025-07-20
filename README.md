@@ -21,12 +21,18 @@ It uses a crap ton of M3 screws and heatsets, so make sure you stock up on those
 So bunch of enginnering went into this design. First the turning system. its a pretty basic system that uses servos and 2 bars to turn the wheels across a gap.\
 The suspensions are a bunch of high strendth springs that help distribute the weight of the whole car evenly through the wheels and absorb large 
 
+![dfsdf](assets/g.png)
+
 ### PCB
+![sda](assets/df.png)
+
 The PCB didnt really take too long but I did have to make many different revisions to get here that did end up taking a lot of time.
 
 The PCB features 3 TB6612 motor drivers. 2 for the normal driving motors and one extra in case you wish to add attachments to the car. The mainboard also has space to use A4988 stepper motor drivers if you wish to swap out the 4 N20s for stepper motors. 
 
 I didnt have a footprint for the esp32 board that I am using so I just used 2 header pins and separated them the distance that it said on the datasheet.
+
+![asd](assets/f.png)
 
 ## The Controller
 ![sdfs](assets/rc2.png)
@@ -43,9 +49,10 @@ Then in order to make it actually buildable, i chopped off the end and added a d
 
 ![asdas](assets/c1.png)
 ### PCB
-For the pcb I wanted to keep it basic. So 2 encoders. One for speed, other for turning. then 2 buttons. one to reverse, other for anything else you might wanna add in the future.
-
-Its a cool design if you ask me and it does its job.
+For the pcb I wanted to keep it basic. So 2 encoders. One for speed, other for turning. then 2 buttons. one to reverse, other for anything else you might wanna add in the future.\
+![asdas](assets/c5.png)\
+Its a cool design if you ask me and it does its job.\
+![sdad](assets/c6.png)
 
 ## Firmware
 
