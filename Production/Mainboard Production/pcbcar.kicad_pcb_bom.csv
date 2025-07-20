@@ -1,0 +1,9 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description
+"A1, A2",2,Pololu_Breakout_A4988,Pololu_Breakout-16_15.2x20.3mm,,,,tht,"Pololu Breakout Board, Stepper Driver A4988"
+"BT1, BT2, BT3",3,Battery,PinHeader_1x02_P2.54mm_Vertical,,,,tht,Multiple-cell battery
+"DCM1, DCM2, DCM3, DCM4, DCM5, DCM6",6,Conn_01x02_Pin,PinHeader_1x02_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x02, script generated"
+"J1, J2",2,Conn_01x15_Socket,PinHeader_1x19_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x19, script generated"
+"M1, M2, M3",3,Motor_Servo,PinHeader_1x03_P2.54mm_Vertical,,,,tht,"Servo Motor (Futaba, HiTec, JR connector)"
+"MD1, MD2, MD3",3,~,MODULE_ROB-14450,,,,tht,
+"STEPPER1, STEPPER2",2,Conn_01x04_Pin,PinHeader_1x04_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x04, script generated"
+SW1,1,SW_Slide_DPDT,SW_E-Switch_EG1271_SPDT,,,,tht,"Slide Switch, dual pole double throw"

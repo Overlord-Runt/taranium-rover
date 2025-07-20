@@ -1,0 +1,11 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description,Sim.Pins
+BT1,1,Battery,JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,,,,tht,Multiple-cell battery,
+"BT2, BT3",2,Battery,PinSocket_1x02_P2.54mm_Vertical,,,,tht,Multiple-cell battery,
+D1,1,LED,LED_D3.0mm,,,,tht,Light emitting diode,1=K 2=A
+"J1, J2",2,Conn_01x19_Pin,PinSocket_1x19_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x19, script generated",
+J3,1,Conn_01x04_Pin,MODULE_DM-OLED096-636,,,,tht,"Generic connector, single row, 01x04, script generated",
+J4,1,Conn_02x15_Odd_Even,PinHeader_2x13_P2.54mm_Vertical,,,,tht,"Generic connector, double row, 02x13, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)",
+R1,1,R_Small,R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal,,,,tht,"Resistor, small symbol",
+"SW1, SW2",2,RotaryEncoder,EC11-Horizontal,,,,tht,"Rotary encoder, dual channel, incremental quadrate outputs, with switch and MP Pin",
+"SW3, SW4",2,SW_Push,Button-6mm-2pin-tht,,,,smt,"Push button switch, generic, two pins",
+SW5,1,SW_Slide_DPDT,SW_E-Switch_EG1271_SPDT,,,,tht,"Slide Switch, dual pole double throw",
