@@ -1,10 +1,14 @@
 # Taranium Rover
 Made By Overlord Runt // Taran The Idiot
 
+![dksjfksd](assets/r1.png)
+
 ## Taranium Rover
 This is an RC car I made for Hack Club's [Highway](https://highway.hackclub.com). It has a 4WD system and can turn with all 4 wheels. It uses ESP32 and ESPNow to communicate between the car and the controller
 
 ## The Car
+
+![dsf](assets/r1.png)
 
 ### CAD
 Majority of this project was getting the cadding of all the different parts done. This isnt what normal custom RC Cars look like and thats because everyone uses the exact same optimal design but I want to make and design something myself. idrc about the "optimal way" cuz where is the fun in that.
@@ -25,8 +29,11 @@ The PCB features 3 TB6612 motor drivers. 2 for the normal driving motors and one
 I didnt have a footprint for the esp32 board that I am using so I just used 2 header pins and separated them the distance that it said on the datasheet.
 
 ## The Controller
+![sdfs](assets/rc2.png)
 ### CAD
 The controller was fairly easy to cad. it uses M3 screws to hold itself together.
+
+![fs](assets/rc1.png)
 
 The triggers are just extensions to the buttons with a small indent to act as a stabiliser
 
@@ -34,6 +41,7 @@ The joysticks/encoder rods are cool in that I didn't use the revolve tool to mak
 
 Then in order to make it actually buildable, i chopped off the end and added a dowel
 
+![asdas](assets/c1.png)
 ### PCB
 For the pcb I wanted to keep it basic. So 2 encoders. One for speed, other for turning. then 2 buttons. one to reverse, other for anything else you might wanna add in the future.
 
