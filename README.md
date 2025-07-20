@@ -58,6 +58,29 @@ Its a cool design if you ask me and it does its job.\
 
 Still need to make it but it will use ESPNow to communicate and just basically use the controller to move the motors. not too difficult.
 
+
+## How To Build
+
+1. Print out all parts
+2. Insert heatsets into all parts
+3. Solder circuit boards as shown in schematics
+4. assemble internal structures such as the turning system
+5. Slide connectors onto rods then use rods to connect 2 internals sides
+6. Attach chasis frames beginning with the parts that connect to the frame.
+7. Flash esp with code
+8. mount pcb of top panel
+9. insert battery and sercure it down with screws
+10. screw on top panels
+11. flash controller with code
+12. solder pcb
+13. attach first part of the sticks to encoders
+14. mount pcb to case
+15. attach second part of sticks to encoders and use super glue or hot glue to hold it down
+16. screw back panel
+17. play enjoy.
+
+If i forgot something I will add it on when I build
+
 ## BOM
 
 |Name|QTY|Cost(AUD)|Cost(USD)|Link|
