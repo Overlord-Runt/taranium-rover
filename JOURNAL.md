@@ -341,7 +341,7 @@ Here are images of what I made:
 
 ![sfd](assets/c4.png)
 
-![dsfs](assets.c3.png)
+![dsfs](assets/c3.png)
 
 This is the controller. it uses 2 horizontal encoders. (one for acceleration, other for turning.
 
