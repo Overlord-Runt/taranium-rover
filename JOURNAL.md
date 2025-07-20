@@ -344,7 +344,17 @@ the pcb schematic looks like so:
 
 ![sfsdf](assets/scd.png)
 
-the extra battery stuff is for a boost converter since the esp needs 5V and not 3.7
+the extra battery stuff is for a boost converter since the esp needs 5V and not 3.7 that normal lipos give.
+
+The LED and resistor is an indicator led to tell when it is on. it would make a low underglow from the case. i can adjust the resistance to make it lower glow if nessasary.
+
+
+time spent: 8 hours
+
+## 20th of July
+
+Okay time to start submission stuffs
+need to make a readme and luckily i made my bom while working of ts
 
 
 
