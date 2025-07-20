@@ -130,7 +130,7 @@ Instead of a ranged weapon, its a close combat fighter. /j
 anyways thats my idea now so I need to go back and make changes to my pcb and bom. I need to add another stepper motor to my pcb(this is gonna take a big battery)\
 My plan for the arm is to have 3 bending points and one spinning point. the bottom bending point uses a stepper motor for extra strength and the top 2 and hand will use servos the hand might use a 5v motor though. (havent decided yet)
 
-hours spent: 8
+hours spent: 5
 
 ## 24th of May
 so today was the call for highway and it was peak.
@@ -211,7 +211,7 @@ Oh and I made that symbol for the TB6612 btw. i wanted to make the footprint but
 
 its crazy what this pcb used to be. but sadly i dont think anything else is possible.
 
-time spent: 
+time spent: 8 hours
 
 ## 2nd July
 
