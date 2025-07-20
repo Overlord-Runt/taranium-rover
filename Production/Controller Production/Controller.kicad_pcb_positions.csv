@@ -1,0 +1,15 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+40.0,-43.05,180.0,bottom,BT1,,,JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,Battery,tht
+43.0,-48.6,-90.0,top,BT2,,,PinSocket_1x02_P2.54mm_Vertical,Battery,tht
+36.0,-85.4,180.0,top,BT3,,,PinSocket_1x02_P2.54mm_Vertical,Battery,tht
+42.4,-87.2,90.0,top,D1,,,LED_D3.0mm,LED,tht
+86.0,-32.14,180.0,bottom,J1,,,PinSocket_1x19_P2.54mm_Vertical,Conn_01x19_Pin,tht
+60.065,-32.18,180.0,bottom,J2,,,PinSocket_1x19_P2.54mm_Vertical,Conn_01x19_Pin,tht
+73.07,-47.2,0.0,top,J3,,,MODULE_DM-OLED096-636,Conn_01x04_Pin,tht
+57.96,-88.34,90.0,top,J4,,,PinHeader_2x13_P2.54mm_Vertical,Conn_02x15_Odd_Even,tht
+47.2,-88.0,90.0,top,R1,,,R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal,R_Small,tht
+93.0,-47.5,90.0,top,SW1,,,EC11-Horizontal,RotaryEncoder,tht
+40.0,-63.0,180.0,top,SW2,,,EC11-Horizontal,RotaryEncoder,tht
+40.2,-33.2,0.0,top,SW3,,,Button-6mm-2pin-tht,SW_Push,smt
+105.8,-33.0,0.0,top,SW4,,,Button-6mm-2pin-tht,SW_Push,smt
+45.6,-39.3925,-90.0,bottom,SW5,,,SW_E-Switch_EG1271_SPDT,SW_Slide_DPDT,tht
