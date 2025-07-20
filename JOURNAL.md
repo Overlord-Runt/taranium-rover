@@ -200,11 +200,20 @@ Damn i havent worked on this in a while.
 
 Okay so Im just going to full send on the 4 motor idea since i cant figure out a way to reliably steer. I also redownloaded macos so i got shapr3d back and am gonna port everything over to there.
 
-time spent: like 10 mins porting
+![dsd](assets/df.png)
+
+So today I redesigned the whole PCB(again) so now it can support all the motors I need and still have upgradeability and whatnot. I spent a while on this trying to make it have minimal vias(we dont like vias) and getting everything to line up well. th motor driver is a TB6612. its really nice and cool.
+
+
+![gfd](assets/f.png)
+
+its crazy what this pcb used to be. but sadly i dont think anything else is possible.
+
+time spent: 
 
 ## 2nd July
 
-Time to start doing work :D
+Time to start doing work on the model :D
 
 ![hi](assets/j2.png)
 
