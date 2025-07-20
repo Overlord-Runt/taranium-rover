@@ -1,7 +1,7 @@
 ---
-title: "RC Car with an Arm"
+title: "Taranium Rover"
 author: "Taran The Idiot"
-description: "An RC car with a 4 axis arm"
+description: "An RC car"
 created_at: "2025-05-15"
 ---
 ## 15th of May
