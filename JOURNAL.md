@@ -391,7 +391,7 @@ It needs to be stronger + needs to be 2 separate servos + more stability
 
 I spent a bit on it and got this thingy up:
 
-![fdws](assets/new turn.png)
+![fdws](assets/new-turn.png)
 
 Hours spent: 3
 
@@ -411,6 +411,28 @@ so thats nice. imma finish turning system now
 
 ![fsdfs](assets/haha.png)
 
+okay thats done. imma use dowels to hold the parts together because its better than screws
+
+wait a minut
+
+I think i put the gears on backwards
+
+imma kms
+
+holy fjdwfgjsaklgfjqsfagf
+s
+
+how am i so dumb
+
+okay time to fix this
+
+*one eternity later*
+
+![fwdfsf](assets/geer.png)
+
+okay so i changed it to be the right way round this time
+
+so now it makes the motor slower instead of faster
 
 
 
