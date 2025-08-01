@@ -391,7 +391,7 @@ It needs to be stronger + needs to be 2 separate servos + more stability
 
 I spent a bit on it and got this thingy up:
 
-![fdws](assets/new build.png)
+![fdws](assets/new turn.png)
 
 Hours spent: 3
 
@@ -407,6 +407,9 @@ spent like 4 hours on this because of how iffy gears are
 
 I went through liek a bunch of different ratios and combos to see which one would fit the best and landed on this.
 
+so thats nice. imma finish turning system now
+
+![fsdfs](assets/haha.png)
 
 
 
