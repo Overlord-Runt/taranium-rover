@@ -1,14 +1,14 @@
 # Taranium Rover
 Made By Overlord Runt // Taran The Idiot
 
-![dksjfksd](assets/r1.png)
+![dksjfksd](assets/frfr.png)
 
 ## Taranium Rover
 This is an RC car I made for Hack Club's [Highway](https://highway.hackclub.com). It has a 4WD system and can turn with all 4 wheels. It uses ESP32 and ESPNow to communicate between the car and the controller
 
 ## The Car
 
-![dsf](assets/r1.png)
+![dsf](assets/frfr.png)
 
 ### CAD
 Majority of this project was getting the cadding of all the different parts done. This isnt what normal custom RC Cars look like and thats because everyone uses the exact same optimal design but I want to make and design something myself. idrc about the "optimal way" cuz where is the fun in that.
@@ -18,21 +18,29 @@ This thing is really big so you need like a lot of plates if you want to build i
 It uses a crap ton of M3 screws and heatsets, so make sure you stock up on those
 
 ### Engineering
-So bunch of enginnering went into this design. First the turning system. its a pretty basic system that uses servos and 2 bars to turn the wheels across a gap.\
-The suspensions are a bunch of high strendth springs that help distribute the weight of the whole car evenly through the wheels and absorb large 
+So bunch of enginnering went into this design. First the turning system. the 2 front wheels turn separately to allow for differential steering and reduced drag. It also allows me to use weaker and smaller 9g servos that are able to turn one wheel, but not 2.\
+It used steel dowels to hold the pieces together and to ensure minimal friction between parts(make it turn stronger)
 
-![dfsdf](assets/g.png)
+![fgd](turns.png)
+
+The bottom piece is there for stability and to make sure the wheel mount doesnt collapse.\
+The suspensions are a bunch of high strendth springs that help distribute the weight of the whole car evenly through the wheels and absorb large bumps.\
+![dafs](assets/suspensions.png)\
+![dfsdf](assets/gear1.png)
+
+The gear system uses a 16:1 gear down from the 12 000 rpm motor to give a 750 rpm spin under no load with roughly 6-10 Kgcm torque. under load it will have about 4-500 rpm and go about 1m/s. I use a large amount of bearings and steel rods in this design. For assembly, use a grinder to chop the steel rods into all the different lengths needed. You can refer to Full-Build.step in the CAD folder to see how everything is put together.
 
 ### PCB
-![sda](assets/df.png)
+![sda](assets/3dpcb3.png)
 
-The PCB didnt really take too long but I did have to make many different revisions to get here that did end up taking a lot of time.
+The PCB didnt really take too long but I did have to make many different revisions to get here that did end up taking a lot of time.\
+I wanted this to be somewhat of a universal mainboard that could be used in multiple use cases. Which is why I included space for stepper motor drivers. specifically the A4988. as well as 3 places for servos
 
-The PCB features 3 TB6612 motor drivers. 2 for the normal driving motors and one extra in case you wish to add attachments to the car. The mainboard also has space to use A4988 stepper motor drivers if you wish to swap out the 4 N20s for stepper motors. 
+The PCB features 2 BTS7960 motor drivers. They have 8 pins that connect to the boards(mounted externally). The mainboard also has space to use A4988 stepper motor drivers if you wish to swap out the 775s for stepper motors. 
 
 I didnt have a footprint for the esp32 board that I am using so I just used 2 header pins and separated them the distance that it said on the datasheet.
 
-![asd](assets/f.png)
+![asd](assets/sch333.png)
 
 ## The Controller
 ![sdfs](assets/rc2.png)
