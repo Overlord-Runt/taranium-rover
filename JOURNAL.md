@@ -367,6 +367,46 @@ time spent: 8 hours
 Okay time to start submission stuffs
 need to make a readme and luckily i made my bom while working of ts
 
+It got rejected :(
+
+## 29th of July
+
+Okay every other project is done. now to speed run changes here
+
+FIRSt i need to downgrade from 4wd to to 2wd, next create a gear down systenm and new turning system that is stronger than the previous one.
+
+then new pcb to accomodate stronger motors
+
+and new firmware
+
+okay so first grinding the model
+
+![adfds](assets/buildfr.png)
+
+here is what i had before for my turning
+
+i need to change it to 2 separate systems. this will let me do differential turning
+
+It needs to be stronger + needs to be 2 separate servos + more stability
+
+I spent a bit on it and got this thingy up:
+
+![fdws](assets/new build.png)
+
+Hours spent: 3
+
+## 30th july
+
+okay full sprint time
+
+so made a gear system in onshape and made brackets and whatnot. it will be 16:1 
+
+![sdffsdf](assets/garv1.png)
+
+spent like 4 hours on this because of how iffy gears are
+
+I went through liek a bunch of different ratios and combos to see which one would fit the best and landed on this.
+
 
 
 
