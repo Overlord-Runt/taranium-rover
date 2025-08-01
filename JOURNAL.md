@@ -4,6 +4,9 @@ author: "Taran The Idiot"
 description: "An RC car"
 created_at: "2025-05-15"
 ---
+
+total time spent: 97 hours
+
 ## 15th of May
 
 highway was just announced :D
@@ -413,6 +416,22 @@ so thats nice. imma finish turning system now
 
 okay thats done. imma use dowels to hold the parts together because its better than screws
 
+
+okay problem with the gears. 
+
+the motors can't go next to each other without clipping 
+
+I need to extend it out by at least 40mm to make it fit sure one wheel would need to spin a bit slowwr but I can fix that in firmware
+
+it should be fine hopefully.
+
+I spent a while looking at alternatives for the motor but I couldn't really find anything that was strong enough.
+
+time spent: 8 hours
+
+
+## 31st of July 
+
 wait a minut
 
 I think i put the gears on backwards
@@ -434,6 +453,53 @@ okay so i changed it to be the right way round this time
 
 so now it makes the motor slower instead of faster
 
+okay so because I was given the opportunity to change the gears up a little, I used it to add anti slip to the gear(probably should have done the a while ago) but also make the gears go outwards a bit instead of staying in a line. so now I can get my 2 motors to fit together on a single line. 
+
+okay tbh I did the extending thing first and then I had the vision to do it like that and it worked so me happy.
+
+
+Next I need to do the PCB. I need to use the BTS7960 motor driver. because tb6612 doesn't have enough current for the 775s(new stronger motor)
+
+this thing is mounted separately off the PCB. and has 8 wires that connect to the microcontroller 
+
+each one controlls one motor so I need 2 of these. 
+
+so I put 2 2x4 headers on my PCB and connected it based on the AliExpress product description.
+
+this made my PCB shorter. which was nice.
+
+okay now I need to update my model based on the new PCB and to handle new drivers that need to be mounted.
+
+I spent like an hour doing different ways to position the 3 PCBs to mount it( mainly waiting cuz my laptop is getting Hella slow and the file is getting really big atp.
+
+I eventually got it
+
+it's really really tight though.
+
+so after that I sent the model in for a sanity check in #highway and they pointed out a few things. my motor mount wasn't connected to anything, and the turning main rod looked weak.
+
+
+so I fixed the mount problem and slept
+
+Time spent: 12 hours :sob:
+
+## 1st August 
+
+time to grind in school 
+
+fixed the turning issue thingy being weak in about an hour
+
+then started doing final touches and taking screenshots /renders of everything for the readme
+
+after that I did a small amount of BOM stuff but my 3rd class didn't have much room to do stuff
+
+I spent about 3 and a half hours at school working
+
+and then got the BOM and readme done
+
+I went to the library and spent like 20 mins doing firmware and finished BOM
+
+time spent:4 hours
 
 
 
