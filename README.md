@@ -21,7 +21,7 @@ It uses a crap ton of M3 screws and heatsets, so make sure you stock up on those
 So bunch of enginnering went into this design. First the turning system. the 2 front wheels turn separately to allow for differential steering and reduced drag. It also allows me to use weaker and smaller 9g servos that are able to turn one wheel, but not 2.\
 It used steel dowels to hold the pieces together and to ensure minimal friction between parts(make it turn stronger)
 
-![fgd](turns.png)
+![fgd](assets/turns.png)
 
 The bottom piece is there for stability and to make sure the wheel mount doesnt collapse.\
 The suspensions are a bunch of high strendth springs that help distribute the weight of the whole car evenly through the wheels and absorb large bumps.\
