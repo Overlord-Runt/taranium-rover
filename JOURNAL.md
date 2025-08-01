@@ -5,7 +5,7 @@ description: "An RC car"
 created_at: "2025-05-15"
 ---
 
-total time spent: 97 hours
+total time spent: 88 hours
 
 ## 15th of May
 
