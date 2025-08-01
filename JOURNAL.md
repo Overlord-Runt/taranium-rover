@@ -468,6 +468,9 @@ so I put 2 2x4 headers on my PCB and connected it based on the AliExpress produc
 
 this made my PCB shorter. which was nice.
 
+also amongus
+![fgdg](assets/amongusvia.png)
+
 okay now I need to update my model based on the new PCB and to handle new drivers that need to be mounted.
 
 I spent like an hour doing different ways to position the 3 PCBs to mount it( mainly waiting cuz my laptop is getting Hella slow and the file is getting really big atp.
