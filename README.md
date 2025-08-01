@@ -92,6 +92,7 @@ If i forgot something I will add it on when I build
 ## BOM
 
 |Name|QTY|Cost(AUD)|Cost(USD)|Link|
+|----|---|---------|---------|----|
 |3s 2.2AH LiPo|1|$47.19||[LINK](https://www.amazon.com.au/gp/product/B09NXM2DW4/ref=sw_img_1?smid=A3S3YJCXW342CA&psc=1)|
 |ESP32 Dev Board|2|$7.39||[LINK](https://www.aliexpress.com/item/1005008499671222.html?spm=a2g0o.cart.0.0.440338dajzfCE9&mp=1&pdp_npi=5%40dis%21AUD%21AUD%207.95%21AUD%207.39%21%21AUD%207.25%21%21%21%402103273e17519916653746516e9cc4%2112000045428891808%21ct%21AU%216138339337%21%211%210)|
 |Buck Converter|1|$1.47||[LINK](https://www.aliexpress.com/item/1005006365697021.html?spm=a2g0o.cart.0.0.7b7238daocpVDw&mp=1&pdp_npi=5%40dis%21AUD%21AUD%201.52%21AUD%201.47%21%21AUD%201.47%21%21%21%402101c80017519920616365587e7ede%2112000036911557265%21ct%21AU%216138339337%21%211%210)|
