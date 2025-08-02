@@ -394,7 +394,8 @@ It needs to be stronger + needs to be 2 separate servos + more stability
 
 I spent a bit on it and got this thingy up:
 
-![fdws](assets/new-turn.png)
+![fdws](assets/new%20turn.png)
+
 
 Hours spent: 3
 
@@ -420,6 +421,8 @@ okay thats done. imma use dowels to hold the parts together because its better t
 okay problem with the gears. 
 
 the motors can't go next to each other without clipping 
+
+![sdfsdf](assets/why.png)
 
 I need to extend it out by at least 40mm to make it fit sure one wheel would need to spin a bit slowwr but I can fix that in firmware
 
@@ -457,6 +460,7 @@ okay so because I was given the opportunity to change the gears up a little, I u
 
 okay tbh I did the extending thing first and then I had the vision to do it like that and it worked so me happy.
 
+![sdfsdf](assets/itworks.png)
 
 Next I need to do the PCB. I need to use the BTS7960 motor driver. because tb6612 doesn't have enough current for the 775s(new stronger motor)
 
@@ -469,6 +473,7 @@ so I put 2 2x4 headers on my PCB and connected it based on the AliExpress produc
 this made my PCB shorter. which was nice.
 
 also amongus
+
 ![fgdg](assets/amongusvia.png)
 
 okay now I need to update my model based on the new PCB and to handle new drivers that need to be mounted.
@@ -478,6 +483,8 @@ I spent like an hour doing different ways to position the 3 PCBs to mount it( ma
 I eventually got it
 
 it's really really tight though.
+
+
 
 so after that I sent the model in for a sanity check in #highway and they pointed out a few things. my motor mount wasn't connected to anything, and the turning main rod looked weak.
 
@@ -491,6 +498,8 @@ Time spent: 12 hours :sob:
 time to grind in school 
 
 fixed the turning issue thingy being weak in about an hour
+
+![fsdsf](assets/turns.png)
 
 then started doing final touches and taking screenshots /renders of everything for the readme
 
