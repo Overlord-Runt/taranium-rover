@@ -30,7 +30,7 @@ The suspensions are a bunch of high strendth springs that help distribute the we
 
 The gear system uses a 16:1 gear down from the 12 000 rpm motor to give a 750 rpm spin under no load with roughly 6-10 Kgcm torque. under load it will have about 4-500 rpm and go about 1m/s. I use a large amount of bearings and steel rods in this design. For assembly, use a grinder to chop the steel rods into all the different lengths needed. You can refer to Full-Build.step in the CAD folder to see how everything is put together.
 
-### PCB
+### PCB / Wiring Diagrams
 ![sda](assets/3dpcb3.png)
 
 The PCB didnt really take too long but I did have to make many different revisions to get here that did end up taking a lot of time.\
@@ -41,6 +41,15 @@ The PCB features 2 BTS7960 motor drivers. They have 8 pins that connect to the b
 I didnt have a footprint for the esp32 board that I am using so I just used 2 header pins and separated them the distance that it said on the datasheet.
 
 ![asd](assets/sch333.png)
+
+![fadsf](assets/wire1)
+
+this is the pinout for the Motor driver. it mathces that on the pcb so its an easy connection there
+
+![sdgfgsg](assets/wire2)
+
+This is how you connect the motor driver to the battery and to the motor.
+
 
 ## The Controller
 ![sdfs](assets/rc2.png)
@@ -56,19 +65,12 @@ The joysticks/encoder rods are cool in that I didn't use the revolve tool to mak
 Then in order to make it actually buildable, i chopped off the end and added a dowel
 
 ![asdas](assets/c1.png)
-### PCB / Wiring Diagrams
+### PCB
 For the pcb I wanted to keep it basic. So 2 encoders. One for speed, other for turning. then 2 buttons. one to reverse, other for anything else you might wanna add in the future.\
 ![asdas](assets/c5.png)\
 Its a cool design if you ask me and it does its job.\
 ![sdad](assets/c6.png)
 
-![fadsf](assets/wire1)
-
-this is the pinout for the Motor driver. it mathces that on the pcb so its an easy connection there
-
-![sdgfgsg](assets/wire2)
-
-This is how you connect the motor driver to the battery and to the motor.
 
 ## Firmware
 
