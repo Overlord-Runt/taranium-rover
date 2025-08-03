@@ -26,7 +26,7 @@ I did some cadding today for like an hour or 2 and I made a wheel :D\
 I also made some gears and mechanical stuff for the back tires.\
 thats about it tbh.\
 ![wheel](assets/wheel.png)\
-![gear](assets/gear1.png)
+![gear](assets/gear70.png)
 
 Anyways time for a farewell my good friends, \
 Until the next we meet.
