@@ -74,7 +74,7 @@ Its a cool design if you ask me and it does its job.\
 
 ## Firmware
 
-Still need to make it but it will use ESPNow to communicate and just basically use the controller to move the motors. not too difficult.
+uses espnow and you can find the firmware in the firmware folders. the names should tell you all you need to knwo about which on goes to which but for those who are a little slow, controller.ino flashes to the controller and mainboard.ino flashes to the mainboard
 
 
 ## How To Build
