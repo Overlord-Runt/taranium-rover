@@ -42,11 +42,11 @@ I didnt have a footprint for the esp32 board that I am using so I just used 2 he
 
 ![asd](assets/sch333.png)
 
-![fadsf](assets/wire1)
+![fadsf](assets/wire1.png)
 
 this is the pinout for the Motor driver. it mathces that on the pcb so its an easy connection there
 
-![sdgfgsg](assets/wire2)
+![sdgfgsg](assets/wire2.png)
 
 This is how you connect the motor driver to the battery and to the motor.
 
