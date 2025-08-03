@@ -56,11 +56,19 @@ The joysticks/encoder rods are cool in that I didn't use the revolve tool to mak
 Then in order to make it actually buildable, i chopped off the end and added a dowel
 
 ![asdas](assets/c1.png)
-### PCB
+### PCB / Wiring Diagrams
 For the pcb I wanted to keep it basic. So 2 encoders. One for speed, other for turning. then 2 buttons. one to reverse, other for anything else you might wanna add in the future.\
 ![asdas](assets/c5.png)\
 Its a cool design if you ask me and it does its job.\
 ![sdad](assets/c6.png)
+
+![fadsf](assets/wire1)
+
+this is the pinout for the Motor driver. it mathces that on the pcb so its an easy connection there
+
+![sdgfgsg](assets/wire2)
+
+This is how you connect the motor driver to the battery and to the motor.
 
 ## Firmware
 
